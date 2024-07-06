@@ -1,0 +1,4 @@
+version control - git
+testing - unit and integration tests
+
+microservices architecture
